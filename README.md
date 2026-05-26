@@ -4,6 +4,6 @@ Welcome. I started on May 26, 2026, and want to learn more about art. So here I 
 
 Green and Blue Tree
 
-[Image Alt](https://raw.githubusercontent.com/realiamYoshi/my-artworks/refs/heads/main/art/green-and-blue-tree.png?raw=true)
+![Image Alt](https://raw.githubusercontent.com/realiamYoshi/my-artworks/refs/heads/main/art/green-and-blue-tree.png?raw=true)
 
 Video: <a href="https://youtu.be/YIqORwHARB4">https://youtu.be/YIqORwHARB4</a>
